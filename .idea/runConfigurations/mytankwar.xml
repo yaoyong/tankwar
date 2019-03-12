@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mytankwar" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.ou.tank.TankClient" />
+    <module name="mytankwar" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
